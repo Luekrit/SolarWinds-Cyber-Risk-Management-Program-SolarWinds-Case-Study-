@@ -15,6 +15,14 @@ This project presents a **Cybersecurity Risk Management Strategy** tailored to *
 
 ---
 
+## 📘 Quick Navigation
+- [Component 1 – Risk Identification](Component_1#readme)
+- [Component 2 – Risk Assessment & Analysis](./Component_2/README.md)
+- [Component 3 – Risk Treatment & Cost-Effectiveness](./Component_3/README.md)
+- [📄 Full Report (PDF)](./report/Cyber_Risk_Management_Program.pdf)
+
+---
+
 ## 🧱 Component 1: Asset Evaluation & Classification
 - Created a complete **asset inventory** across physical, digital, and human resources.  
 - Assigned **CIA Triad ratings** (Confidentiality, Integrity, Availability) for each asset.  
@@ -80,20 +88,26 @@ This project presents a **Cybersecurity Risk Management Strategy** tailored to *
 ---
 
 ## 🌐 Repository Structure
-```css
+```bash
 
-├── README.md
-├── report/
-│ ├── Cyber_Risk_Management_Program.pdf
-│ ├── SolarWinds_Risk_Assessment_Summary.pdf
-├── images/
-│ ├── asset_categorization.png
-│ ├── bia_results.png
-│ ├── risk_matrix.png
-│ ├── control_prioritization.png
-│ ├── rosi_chart.png
-│ ├── implementation_plan.png
-│ └── security_metrics.png
+├── README.md                       # Main project overview
+│
+├── Component_1/                    # Component 1 – Risk Identification
+│   ├── Screenshot/                 # Supporting visuals for Section 1
+│   └── README.md                   # Documentation for Component 1
+│
+├── Component_2/                    # Component 2 – Risk Assessment & Analysis
+│   ├── screenshot/                 # Supporting visuals for Section 2
+│   └── README.md                   # Documentation for Component 2
+│
+├── Component_3/                    # Component 3 – Risk Treatment & Cost-Effectiveness
+│   ├── screenshot/                 # Supporting visuals for Section 3
+│   └── README.md                   # Documentation for Component 3
+│
+└── report/
+    ├── Cyber_Risk_Management_Program.pdf      # Full compiled report
+    ├── SolarWinds_Risk_Assessment_Summary.pdf # Executive summary version
+
 ```
 ---
 ## 🔗 Connect
