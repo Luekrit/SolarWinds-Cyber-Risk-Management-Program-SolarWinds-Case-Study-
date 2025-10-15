@@ -180,14 +180,7 @@ Each asset is analyzed using:
 ---
 
 ## 📊 Overall Business Impact Analysis Table
-🖼️ *Overall BIA Table:*  
-![Business Impact Analysis](Screenshot/1.4%20Business%20Impact%20Analysis.png)
 
-This table provides a consolidated overview of **physical, digital, and human assets** along with their assessed risk levels.
-
----
-
-## 🧩 Individual BIA Summaries
 ### 🔹 Physical Assets
 | Asset | Impact of Loss / Compromise | Likelihood | Risk Level |
 |--------|------------------------------|-------------|-------------|
@@ -339,3 +332,4 @@ Data is evaluated using four key dimensions:
 ---
 
 ✅ *This final component concludes the asset evaluation phase by mapping each data type’s sensitivity and value, forming the foundation for cost-effective risk treatment strategies and control prioritization in the next phase of the Cybersecurity Risk Management Program.*
+
