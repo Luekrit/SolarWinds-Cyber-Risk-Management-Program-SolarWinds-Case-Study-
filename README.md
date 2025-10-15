@@ -5,11 +5,13 @@
 **Role:** Cyber Risk Analyst (Academic Project)  
 **Frameworks & Tools:** NIST SP 800-30 | ISO 27001 | BIA | CIA Triad | CIS Controls | SIEM | EDR | ROSI | TCO  
 
-## 🎯 Objectives
-1. **Evaluate and classify assets** (physical, digital, human) based on the **CIA Triad** and **Business Impact Analysis (BIA)**.  
-2. **Develop risk evaluation methods** using both **qualitative** and **quantitative** assessments (SLE, ARO, ALE).  
-3. **Design a monitoring and control strategy** using **Key Risk Indicators (KRIs)**, **SIEM**, and **EDR** tools.  
-4. **Identify cost-effective risk treatments**, prioritizing controls through **ROSI** and **TCO** calculations.
+## 🧠 Overview
+This project presents a **Cybersecurity Risk Management Strategy** tailored to **SolarWinds Corporation (My SolarWinds Case Study)**. The program is divided into three key categories:
+
+
+- **Category 1:** Focuses on **asset evaluation** by classifying SolarWinds’ **physical, digital, and human assets** through **CIA Triad** and **Business Impact Analysis (BIA)** to determine their **criticality and sensitivity**.
+- **Category 2:** Emphasizes **risk evaluation and monitoring** through **qualitative and quantitative assessments**, **Key Risk Indicators (KRIs)**, and a **structured periodic review** to adapt to evolving threats.
+- **Category 3:** Prioritizes **cost-effective risk treatments**, performing **cost-benefit analysis** and implementing **security controls with measurable metrics** to enhance **SolarWinds’ cybersecurity resilience**.
 
 ---
 
@@ -76,3 +78,28 @@
 - **SolarWinds Cyber Incident Report (2021)** – *Case Reference*
 
 ---
+
+## 🌐 Repository Structure
+```css
+
+├── README.md
+├── report/
+│ ├── Cyber_Risk_Management_Program.pdf
+│ ├── SolarWinds_Risk_Assessment_Summary.pdf
+├── images/
+│ ├── asset_categorization.png
+│ ├── bia_results.png
+│ ├── risk_matrix.png
+│ ├── control_prioritization.png
+│ ├── rosi_chart.png
+│ ├── implementation_plan.png
+│ └── security_metrics.png
+```
+---
+## 🔗 Connect
+**GitHub:** [github.com/luekrit](https://github.com/luekrit)  
+**LinkedIn:** [linkedin.com/in/luekritkongkamon](https://linkedin.com/in/luekritkongkamon)  
+
+---
+
+⭐ *This project demonstrates advanced understanding of risk governance, cyber resilience, and data-driven security control implementation aligned with real-world frameworks.*
