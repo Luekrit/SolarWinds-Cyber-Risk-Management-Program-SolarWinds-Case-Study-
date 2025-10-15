@@ -35,8 +35,6 @@ High-priority risks are flagged for immediate attention, while medium and low ri
 | **Physical Theft** – Devices or servers containing customer data stolen | Medium | Low | Medium |
 | **Unsecured Data Transmission** – Interception during transfer | High | Low | Medium |
 
-🖼️ *Risk Matrix Visualization:*  
-![Qualitative Risk Matrix](screenshot/2.1%20Qualitative%20risk%20assessment.png)
 
 ---
 
@@ -76,12 +74,6 @@ Where:
 - **SLE (Single Loss Expectancy)** = Expected loss per incident.
 - **ARO (Annual Rate of Occurrence)** = Frequency of incidents per year.
 - **ALE (Annual Loss Expectancy)** = Projected yearly financial loss from each risk.
-
----
-
-## 📋 Quantitative Risk Assessment Table
-🖼️ *Quantitative Risk Assessment Table:*  
-![Quantitative Risk Assessment Table](screenshot/2.2%20Quantitative%20risk%20assessment%202.png)
 
 ---
 
@@ -162,28 +154,30 @@ By having clear **measurements**, **thresholds**, and **purposes**, SolarWinds c
 ---
 
 ## 📋 Key Risk Indicators – Organization-Wide Metrics
-🖼️ *KRI Table Overview:*  
-![KRI Overview](screenshot/2.3%20Key%20Risk%20Indicators%20for%20Solarwinds.png)
+
+| **KRI Description** | **Measurement** | **Thresholds** | **Purpose** |
+|----------------------|-----------------|----------------|--------------|
+| **Number of Security Incidents** | Count of reported security incidents company-wide | >5 incidents per month | Monitors frequency of security incidents to detect trends and assess the overall security posture. |
+| **Vulnerability Scan Findings** | Number of high/critical vulnerabilities identified | >10 critical vulnerabilities | Assesses effectiveness of vulnerability management and identifies areas needing immediate remediation. |
+| **Phishing Simulation Results** | Percentage of employees clicking on simulated phishing emails | >10% click rate | Evaluates employee awareness and effectiveness of phishing training programs. |
+| **Unauthorized Access Attempts** | Count of failed login attempts across sensitive systems | >100 attempts per week | Identifies potential unauthorized access attempts, signaling possible brute force or credential stuffing. |
+| **Patch Management Compliance** | Percentage of systems fully patched | <95% compliance | Monitors the organization’s ability to address vulnerabilities through timely patching. |
+| **Data Loss Prevention (DLP) Alerts** | Number of DLP incidents flagged | >10 incidents per month | Tracks attempts to exfiltrate sensitive data, indicating potential insider threats or breaches. |
+| **Endpoint Security Status** | Percentage of endpoints with up-to-date antivirus software | <95% compliance | Ensures systems are secured with updates, reducing vulnerabilities that could affect customer records. |
+| **Employee Training Completion Rates** | Percentage of employees completing cybersecurity training | <80% training completion | Monitors training effectiveness, ensuring employees are equipped to handle cybersecurity threats. |
+| **Third-Party Risk Assessment Scores** | Average risk score from third-party assessments | >5 risk score (scale of 1–10) | Assesses the risk posed by third-party vendors, ensuring compliance with security standards. |
+| **Incident Response Time** | Average time taken to respond to security incidents | >30 minutes for critical incidents | Measures effectiveness and efficiency of the incident response plan. |
+
 
 These organization-level KRIs are used to assess general cybersecurity health, patch management, and security awareness.
-
-### Example Indicators
-- **Number of Security Incidents:** >5 incidents/month indicates potential increase in attack surface.  
-- **Vulnerability Scan Findings:** >10 high/critical findings trigger remediation workflows.  
-- **Phishing Simulation Results:** >10% click rate highlights user awareness gaps.  
-- **Unauthorized Access Attempts:** >100 failed logins/week suggests credential-based attacks.  
-- **Patch Management Compliance:** <95% patched systems flags maintenance delays.  
-- **Data Loss Prevention Alerts:** >10 flagged incidents/month signals insider threat potential.
 
 ---
 
 ## 📊 Key Risk Indicators – Customer Records Focus
-🖼️ *Customer Record–Specific KRIs:*  
-![KRI Table – Customer Records](screenshot/2.3%20Key%20Risk%20Indicators.png)
 
 These KRIs specifically monitor **Customer Records**, which are classified as *Very High Sensitivity* due to containing **Personally Identifiable Information (PII)** and being subject to strict data protection regulations.
 
-### Example Indicators
+### Indicators
 | KRI Description | Measurement | Threshold | Purpose |
 |------------------|--------------|------------|----------|
 | **Unauthorized Access Attempts** | Failed login count | >5 attempts / 10 min | Detects brute-force or credential attacks on customer data. |
@@ -348,16 +342,11 @@ To establish a **structured and repeatable process** for conducting regular risk
 | **Stakeholder Interviews** | During each assessment | Risk Management Team |
 | **Management Review & Reporting** | After each assessment | Senior Management |
 
-🖼️ *Periodic Risk Assessment Schedule:*  
-![Risk Assessment Table](screenshot/2.5%20Periodic%20Risk%20Assessment%20for%20Solarwinds.png)
 
 ---
 
 ## 🧩 Methodology for Conducting Risk Assessment
 This methodology provides a **systematic framework** for identifying, prioritizing, and addressing cybersecurity risks in SolarWinds’ environment.
-
-🖼️ *Risk Assessment Methodology:*  
-![Risk Assessment Methodology](screenshot/2.5%20Periodic%20Risk%20Assessment%20for%20Solarwinds%20(2).png)
 
 | Step | Description | Purpose |
 |------|--------------|----------|
@@ -388,6 +377,7 @@ This methodology provides a **systematic framework** for identifying, prioritizi
 ---
 
 ✅ *This section defines a recurring, structured risk assessment process that ensures continuous visibility and improvement of SolarWinds’ cybersecurity risk posture across assets, infrastructure, and operations.*
+
 
 
 
