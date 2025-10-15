@@ -23,39 +23,35 @@ This project presents a **Cybersecurity Risk Management Strategy** tailored to *
 
 ---
 
-## 🧱 Component 1: Asset Evaluation & Classification
+## 🧱 Component 1: Risk Identification
 - Created a complete **asset inventory** across physical, digital, and human resources.  
 - Assigned **CIA Triad ratings** (Confidentiality, Integrity, Availability) for each asset.  
 - Conducted **Business Impact Analysis (BIA)** with quantitative metrics to estimate **Annual Loss Expectancy (ALE)**.  
-- Please check readme.md in component_1
+- Please check readme.md in component_1 for full details [Risk Identification](Component_1#readme).
 ---
 
-## 📈 Component 2: Evaluating & Monitoring Cyber Risk
+## 📈 Component 2: Risk Assessment & Analysis
 - Applied **Qualitative Assessment** using expert judgment and risk matrices.  
 - Applied **Quantitative Assessment** using **SLE × ARO = ALE** formula to quantify financial risk exposure.  
 - Defined **Key Risk Indicators (KRIs)** to track threat trends (e.g., incident frequency, detection time, patching delays).  
 - Developed a **Continuous Monitoring Plan** integrating **SIEM**, **EDR**, and **Threat Intelligence Feeds** for real-time visibility.  
-- Please check readme.md in component_2
+- Please check readme.md in component_2 for full details [Risk Assessment & Analysis](Component_2#readme).
 ---
 
-## 💰 Component 3: Cost-Effective Risk Treatment
+## 💰 Component 3: Risk Treatment & Cost-Effectiveness
 - Evaluated four main **risk treatment options**: Avoidance, Reduction, Transfer, and Acceptance.  
 - Prioritized **security controls** (e.g., EDR, phishing training, patch management) using **CIS Controls v8** alignment.  
 - Conducted **Cost-Benefit Analysis** and **Return on Security Investment (ROSI)** for ransomware mitigation:  
   - **Potential Loss:** \$2M  
   - **Control Investment:** \$100K (EDR) + \$40K annual training  
   - **ROSI:** Positive (risk reduction > control cost)
-- Please check readme.md in component_3
+- Please check readme.md in component_3 for full details [Risk Treatment & Cost-Effectiveness](Component_3#readme).
 ---
 
 ## 🔁 Implementation & Metrics
 - Designed a **3-phase implementation plan** for deploying prioritized controls.  
 - Defined **security performance metrics** to measure control efficiency and cost-effectiveness (e.g., mean detection time, ROI trend).  
 - Proposed periodic **risk reassessment schedule** (annual full review + quarterly updates).
-
-🖼️ *Screenshots:*  
-- ![Implementation Timeline](/images/implementation_plan.png)  
-- ![Security Metrics Dashboard](/images/security_metrics.png)
 
 ---
 
