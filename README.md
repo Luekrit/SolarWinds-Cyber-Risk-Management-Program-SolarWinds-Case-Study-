@@ -17,8 +17,8 @@ This project presents a **Cybersecurity Risk Management Strategy** tailored to *
 
 ## 📘 Quick Navigation
 - [Component 1 – Risk Identification](Component_1#readme)
-- [Component 2 – Risk Assessment & Analysis](./Component_2/README.md)
-- [Component 3 – Risk Treatment & Cost-Effectiveness](./Component_3/README.md)
+- [Component 2 – Risk Assessment & Analysis](Component_2#readme)
+- [Component 3 – Risk Treatment & Cost-Effectiveness](Component_3#readme)
 - [📄 Full Report (PDF)](./report/Cyber_Risk_Management_Program.pdf)
 
 ---
