@@ -19,7 +19,7 @@ This project presents a **Cybersecurity Risk Management Strategy** tailored to *
 - [Component 1 – Risk Identification](Component_1#readme)
 - [Component 2 – Risk Assessment & Analysis](Component_2#readme)
 - [Component 3 – Risk Treatment & Cost-Effectiveness](Component_3#readme)
-- [📄 Full Report (PDF)](./report/Cyber_Risk_Management_Program.pdf)
+- [📄 Full Report (PDF)](SolarWinds%20Cyber%20Risk%20Management%20Program%20(SolarWinds%20Case%20Study).pdf)
 
 ---
 
