@@ -27,10 +27,7 @@ This project presents a **Cybersecurity Risk Management Strategy** tailored to *
 - Created a complete **asset inventory** across physical, digital, and human resources.  
 - Assigned **CIA Triad ratings** (Confidentiality, Integrity, Availability) for each asset.  
 - Conducted **Business Impact Analysis (BIA)** with quantitative metrics to estimate **Annual Loss Expectancy (ALE)**.  
-🖼️ *Screenshots:*  
-- ![Asset Classification Table](/images/asset_categorization.png)  
-- ![BIA Results](/images/bia_results.png)
-
+- Please check readme.md in component_1
 ---
 
 ## 📈 Component 2: Evaluating & Monitoring Cyber Risk
@@ -38,11 +35,7 @@ This project presents a **Cybersecurity Risk Management Strategy** tailored to *
 - Applied **Quantitative Assessment** using **SLE × ARO = ALE** formula to quantify financial risk exposure.  
 - Defined **Key Risk Indicators (KRIs)** to track threat trends (e.g., incident frequency, detection time, patching delays).  
 - Developed a **Continuous Monitoring Plan** integrating **SIEM**, **EDR**, and **Threat Intelligence Feeds** for real-time visibility.  
-
-🖼️ *Screenshots:*  
-- ![Qualitative Risk Matrix](/images/risk_matrix.png)  
-- ![Monitoring Framework Diagram](/images/continuous_monitoring_plan.png)
-
+- Please check readme.md in component_2
 ---
 
 ## 💰 Component 3: Cost-Effective Risk Treatment
@@ -52,11 +45,7 @@ This project presents a **Cybersecurity Risk Management Strategy** tailored to *
   - **Potential Loss:** \$2M  
   - **Control Investment:** \$100K (EDR) + \$40K annual training  
   - **ROSI:** Positive (risk reduction > control cost)
-
-🖼️ *Screenshots:*  
-- ![Control Prioritization Table](/images/control_prioritization.png)  
-- ![ROSI Calculation Chart](/images/rosi_chart.png)
-
+- Please check readme.md in component_3
 ---
 
 ## 🔁 Implementation & Metrics
